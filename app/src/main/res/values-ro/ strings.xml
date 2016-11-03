@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8112789878571769/4698215898</string>
+    <string name="app_name">CellMapper</string>
+    <string name="menu_changeProvider">Schimba Operator</string>
+    <string name="title_activity_main">Harta Turn</string>
+    <string name="title_activity_upload">Incarca datele</string>
+    <string name="loading">Incarcare...</string>
+
+    <string name="navigation_drawer_open">Deschideți panoul de navigare</string>
+    <string name="navigation_drawer_close">Închideți panoul de navigare</string>
+
+    <string name="title_activity_info">CellMapper</string>
+    
+    <!-- General -->
+    <string name="text_ok">Da</string>
+    <string name="text_disabled">Dezactivat</string>
+    <string name="text_map">Harta</string>
+    <string name="text_cells">Celule</string>
+    <string name="text_uploadandstatistics">Încărcați și statistica</string>
+    <string name="text_account">Cont</string>
+    <string name="text_help">Ajutor</string>
+    <string name="text_settings">Setaro</string>
+    <string name="text_loading">Incarca...</string>
+    <string name="text_country">Tara</string>
+    <string name="text_network">Retea</string>
+    <string name="text_network_type">Tip retea</string>
+    <string name="text_current_provider">Operator curent</string>
+    <string name="text_local_data">Date calculate locale</string>
+    <string name="text_bearing">Bearing</string>
+    <string name="text_altitude">Altitudine</string>
+    <string name="text_speed">Viteza</string>
+    <string name="text_signal">Semnal</string>
+    <string name="text_points">Puncte</string>
+    <string name="text_towers">Turnuri</string>
+    <string name="text_airplane_mode">Mod de avion detectat! \ Vă rugăm să dezactivați modul avion și reporniți această aplicație.</string>
+    <string name="text_error">Eroare</string>
+
+    <!-- User Screen -->
+    <string name="activity_user_username">Utilizator</string>
+    <string name="activity_user_total_points">Puncte</string>
+    <string name="activity_user_total_cells">Celule</string>
+    <string name="activity_user_total_towers_moved">Total turnuri mutate</string>
+    <string name="activity_user_error_logging_in">Eroare la conectare</string>
+    <string name="activity_user_register">Inregistrare</string>
+    <string name="activity_user_reset">Resetare</string>
+    <string name="activity_user_login_below">Conectare mai jos</string>
+
+
+    <!-- Main Menu -->
+    <string name="menu_text_aboutlicense">Despre / Licență</string>
+    <string name="menu_text_blankscreen">Ecran Alb</string>
+    <string name="menu_text_car_mode">Mod Masina</string>
+    <string name="menu_text_recorddata">Inregistreaza datele</string>
+    <string name="menu_text_exit">Iesire</string>
+    <!-- Map Screen -->
+    <string name="menu_text_changeprovider">Selecteaza Operator</string>
+    <string name="menu_text_changemaptype">Schimba tip harta</string>
+    <string name="menu_text_open_map_in_brower">Deschide in browser </string>
+    <string name="menu_text_filter_bands">Filtrare Banda</string>
+    <string name="menu_text_filter_tower">Cautare turn</string>
+
+    <string name="filter_tower_hint">ex. 12345, 00ABA, 0x1234</string>
+    <string name="filter_tower_description">Introduceți un ID turn în oricare hex sau zecimal</string>
+    <string name="select_map_type">Selectați tipul de hartă</string>
+
+
+    <!-- Login Screen -->
+    <string name="activity_login_login_ok">Conectare reusita</string>
+    <string name="activity_login_login_error">Conectare esuata</string>
+    <string name="activity_login_not_logged_in">Nu esti conectat</string>
+
+    
+    <!-- Upload Screen -->
+<string name = "activity_upload_helptext"> 
+	Această pagină este utilizată pentru a încărca date în cazul în care de încărcare în direct nu este activat. Puteți încărca datele în orice moment ulterior. \ N \ n </string>
+    <String name = "menu_text_uploadnow"> Încărcați acum </string>
+    <String name = "menu_text_reupload"> Re-Upload </string>
+    <String name = "activity_upload_starting"> începe încărcarea ... </string>
+    <String name = "activity_upload_complete"> Încărcați complet </string>
+    <String name = "activity_upload_choose_start_date"> Alegeți Start Date </string>
+    <String name = "activity_upload_choose_end_date"> Alegeți Data de încheiere </string>
+    <String name = "activity_upload_confirm_reupload"> Confirmați Reupload </string>
+    <String name = "activity_upload_marking_for_reupload"> Marcarea pentru re-upload </string>
+    <string name = "activity_upload_total_uploaded_data_points"> total încărcat puncte de date: </string>
+    <String name = "activity_upload_total_points_to_upload"> Total puncte pentru a încărca: </string>
+    <String name = "activity_upload_date_of_last_point"> Data punctului de date încărcat: </string>
+    <String name = "activity_upload_distinct_cells_found"> ​​celule Distinct găsite: </string>
+    <String name = "activity_upload_uploading_data_points">%, puncte Se încarcă d date </string>
+    <String name = "activity_upload_done"> Done </string>
+    <string name = "activity_upload_reupload_confirm"> 
+	Sunteți sigur că doriți să încărcați din nou datele de date între:? \ N% 1 $ s \ nși \ n% 2 $ s \ n \ nAceastă va re-încărcare în% 3 $ d puncte de date. </string>
+
+    <!--  Tower Screen -->
+     <String name = "tower_screen_lte_tac"> Codul de urmărire Zona </String>
+     <String name = "tower_screen_umts_lac"> Location Area Code </String>
+     <String name = "tower_screen_cdma_sid"> ID-ul de sistem </String>
+     <String name = "tower_screen_located_by"> Situat By: </String>
+     <String name = "tower_screen_first_seen"> Mai întâi Văzut </String>
+     <String name = "tower_screen_last_seen"> A fost vazut </String>
+    
+    <!--  Cells Screen -->
+    <String name = "cells_screen_gps_fix_too_old"> GPS-ul Fix prea vechi </String>
+     <String name = "cells_screen_gps_fix_ok"> GPS Fix OK </String>
+     <String name = "cells_screen_gps_initializing"> GPS intializare </String>
+     <String name = "cells_screen_gps_accuracy"> Precizie </String>
+     <String name = "cells_screen_gps_satellites_locked"> Sateliții Blocat </String>
+     <String name = "cells_screen_upload_status"> Stare încărcare </String>
+     <String name = "cells_screen_wait_for_gps"> Așteptați GPS </String>
+     <String name = "cells_screen_error_retrying"> Eroare, re încearcă din nou ... </String>
+     <String name = "cells_screen_recording_disabled"> Toate de colectare a datelor dezactivate </String>
+     <String name = "cells_screen_login_status"> "Starea de conectare </String>
+     <String name = "cells_screen_status_header"> "Stare </String>
+
+     <String name = "cells_screen_gps"> GPS </String>
+     <String name = "cells_screen_upload"> Încărcați </String>
+     <String name = "cells_screen_account"> Cont </String>
+     <String name = "cells_screen_record"> Înregistrare </String>
+    
+    <!-- Preferences -->
+    <String name = "preferences_about"> Despre </String>
+    <String name = "preferences_main_settings"> Setări principale </String>
+    <String name = "preferences_version"> CellMapper Versiunea </String>
+    <String name = "preferences_debug"> Debug </String>
+
+    <String name = "preferences_upload_enabled_title"> Activează Încărcare instant </String>
+    <String name = "preferences_upload_enabled_summary"> Activează încărcarea în direct pe site-ul CellMapper. Acest lucru se va utiliza date, dar asigură cele mai precise rezultate sunt raportate \ nNu se pot încărca întotdeauna datele înregistrate la o dată ulterioară, </String>
+
+    <String name = "preferences_upload_auto_wifi_enabled_title"> WiFi Auto Încarcă </String>
+    <String name = "preferences_upload_auto_wifi_enabled_summary"> orice date noi Încarcă colectate automat atunci când este conectat WiFI </String>
+
+    
+    <String name = "preferences_cell_change_vibrate_title"> Vibrarea schimbare ID-ul celulei </String>
+    <String name = "preferences_cell_change_vibrate_summary"> Vibrează telefonul să vă anunțe o schimbare ID-ul celulei </String>
+    
+    <String name = "preferences_cell_change_sound_enabled_title"> Notificare privind schimbarea Redare ID-ul celulei </String>
+    <String name = "preferences_cell_sound_enabled_summary"> redă un sunet cu privire la schimbarea ID-ul celulei </String>
+
+
+<String name = "preferences_start_on_boot_title"> Pornire pe telefon Boot </String>
+    <String name = "preferences_start_on_boot_summary"> Auto începe atunci când telefonul CellMapper cizme sus </String>
+    
+    <String name = "preferences_override_volume_title"> Controale Suprascriere volum </String>
+    <String name = "preferences_override_volume_summary"> Aceasta dezactivează butoanele de volum pentru a preveni accidental îndesate </String>
+
+    <String name = "preferences_use_imperial_title"> Afișare în unități imperiale </String>
+    <string name = "preferences_use_imperial_summary"> Acesta afișează viteza în MPH în loc de KM / H. Altitute în FT vs M </string>
+
+    <String name = "preferences_write_csv_file_title"> Ieșire la fișier CSV </String>
+    <String name = "preferences_write_csv_file_summary"> Aceasta va crea un fișier CSV în spațiul de stocare dispozitiv pentru a înregistra puncte de date pentru utilizare ulterioară </String>
+    
+    <String name = "preferences_map_settings"> Harta Setări </String>
+    
+    <String name = "preferences_display_towers_title"> Afișare turnuri pe hartă </String>
+    <String name = "preferences_display_towers_summary"> afișează sau ascunde toate turnurile de pe hartă </String>
+    
+    <String name = "preferences_show_low_accuracy_title"> Arată turnuri de precizie joase </String>
+    <String name = "preferences_show_low_accuracy_summary"> afișează sau ascunde turnurile care sunt considerate acuratețe scăzută din cauza datelor insuficiente </String>
+    
+    <String name = "preferences_advanced_settings"> Setări avansate </String>
+    
+    <String name = "preferences_newcellapi_enabled_title"> Utilizați noul API Android 4.2 ID-Cell </String>
+    <String name = "preferences_newcellapi_enabled_summary"> Acesta va folosi noul API CellID pentru Android 4.2 și mai târziu. Din nefericire, majoritatea producătorilor (inclusiv Google) nu s-au deranjat să pună în aplicare acest lucru. Așa că cel mai probabil, obiceiul de lucru. Aplicația repornire este necesar. </String>       
+
+    <String name = "preferences_check_gps_age_title"> Verificați vârsta GPS </String>
+    <String name = "preferences_check_gps_age_summary"> Aceasta crește acuratețea datelor atunci când trec prin tunele / zone urbane. Debifa dacă vedeți \ 'GPS Fix prea vechi \ ", chiar dacă acesta nu e \' t </String>
+
+    <String name = "preferences_record_interval_title"> Minim Intervalul de înregistrare </String>
+    <String name = "preferences_record_interval_summary"> Numărul minim de secunde între puncte de date </String>
+
+    <String name = "preferences_keep_screen_on_title"> Keep On Screen </String>
+    <String name = "preferences_keep_screen_on_summary"> poate fi dezactivat numai atunci când Android 4.2 Cell ID-ul API-ul este activat. </String>
+
+    <String name = "preferences_keep_screen_on_brightness_title"> Păstrați ecran pe Luminozitate </String>
+    <String name = "preferences_keep_screen_on_brightness_summary"> Cum luminos pentru a menține ecranul atunci când telefonul să încerce să meargă la culcare. </String>
+
+    <String name = "preferences_record_neighbours_title"> Înregistrarea Neighbour Cells </String>
+    <String name = "preferences_record_neighbours_summary"> info celulă vecin Record. Foarte nesigur dacă nu acceptă telefonul> 4.2 API CellID. </String>
+
+    <String name = "preferences_suppress_errors_title"> Erori Suprimarea </String>
+    <String name = "preferences_suppress_errors_summary"> Aceasta va ascunde toate ferestrele pop-up de eroare și dialoguri, cu excepția cazului în care sunt importante. </String>
+
+    <String name = "preferences_upload_batch_size_title"> Încărcați un lot Dimensiune </String>
+    <String name = "preferences_upload_batch_size_summary"> Numărul de puncte de date pentru a încărca la cerere pentru încărcare mai târziu. Modificați această valoare la o valoare mai mică în cazul în care încărcarea nu reușește în mod constant </String>
+
+    <String name = "preferences_is_wear_enabled_title"> Wear Notificări activate </String>
+    <String name = "preferences_is_wear_enabled_summary"> Controale notificările Android Wear. Repornirea aplicației necesară. </String>
+
+    <String name = "preferences_hide_unknown_cells_title"> Hide Cells Necunoscut </String>
+    <String name = "preferences_hide_unknown_cells_summary"> Hides celule care au CellID necunoscute de pe ecranul principal. </String>
+
+    <String name = "preferences_read_logcat_title"> Read logcat pentru date Samsung / Sony Câmp de testare (rădăcină) </String>
+    <String name = "preferences_read_logcat_summary"> Aceasta va citi dvs. de ieșire logcat pentru a încerca să obțină date în modul de testare pe teren Samsung / Sony. Nu activați acest lucru dacă utilizați metoda cititor de ecran. Pe telefoanele mai noi, test de teren trebuie să ruleze în modul prim plan sau cu dublă fereastră. Necesită rădăcină pentru Android 4.1+ și repornire a aplicației atunci când sa schimbat. </String>
+
+    <String name = "preferences_read_logcat_qualcomm_title"> date Citește Qualcomm LTE (rădăcină) </String>
+    <String name = "preferences_read_logcat_qualcomm_summary"> Acest lucru se va citi de la Qualcomm modemurilor frecvența LTE. </String>
+
+    <String name = "preferences_read_logcat_qualcomm_device_title"> dispozitiv modem Qualcomm </String>
+    <String name = "preferences_read_logcat_qualcomm_device_summary"> Acesta este modemul dispozitivului CellMapper se va utiliza. De obicei, / dev / smd11. Repornire este necesar. </String>
+
+
+    <String name = "preferences_estimate_band_title"> Benzile de frecvență și lărgimea benzii de estimare </String>
+    <String name = "preferences_estimate_band_summary"> Acesta va contacta serverul pentru a estima GSM / UMTS / LTE benzi / lățimi de bandă. Necesită o conexiune de date. </String>
+
+
+    <String name = "preferences_show_hex_values_title"> Valori Arată Hex </String>
+    <String name = "preferences_show_hex_values_summary"> Afișare hex în loc de valori zecimale pentru codurile de celulă. </String>
+
+
+    <!-- Misc errors -->
+<String name = "gps_error_title"> Eroare GPS </String>
+    <String name = "gps_error_body"> GPS-ul este necesar pentru această aplicație să funcționeze corect. În caz contrar, unele caracteristici pot fi indisponibile. </String>
+
+    <String name = "map_error_title"> Eroare hartă </String>
+    <String name = "map_error_body"> Telefonul dvs. nu acceptă Google Maps API v2. Vă rugăm să vizitați site-ul pentru a vedea datele. </String>
+
+    <! - Restul prefs ->
+    <String name = "preferences_dual_sim_support_title"> suport dual SIM </String>
+    <String name = "preferences_dual_sim_support_summary"> Activare / dezactivare suport dual SIM pentru telefoanele care nu acceptă 4.2+ API CellID. Necesită repornirea aplicației. </String>
+
+    <String name = "preferences_send_debug_title"> Trimite Debug Info </String>
+    <String name = "preferences_send_debug_summary"> Creează un e-mail pentru a trimite dezvoltatorului informații de depanare despre dispozitiv. Utilă atunci când caracteristici nu sunt de lucru pe telefonul dvs. special. </String>
+
+
+    <String name = "blank_screen_press_back"> Apăsați butonul înapoi pentru a ieși din acest ecran. </String>
+
+    <String name = "preferences_record2g_title"> Date de înregistrare 2G </String>
+    <String name = "preferences_record2g_summary"> Activare / dezactivare inregistrare pe 2G (GSM, CDMA) de date </String>
+
+    <String name = "preferences_record3g_title"> Date de înregistrare 3G </String>
+    <String name = "preferences_record3g_summary"> Activare / dezactivare înregistrare pe 3G (UMTS) date </String>
+
+    <String name = "preferences_record4g_title"> Date de înregistrare 4G </String>
+    <String name = "preferences_record4g_summary"> Activare / dezactivare înregistrare pe 4G (LTE) date </String>
+
+    <string name="preferences_enable_geofencing_title">Activați excluderea locației (restricționare zonală)</string>
+    <string name="preferences_enable_geofencing_summary">Activarea / dezactivarea de excludere a locației atunci când cartografiere. atingeți lung pe hartă, în scopul de a stabili o zonă de excludere. Repornirea aplicatiei este necesara.</string>
+
+
+
+    <string name="preferences_geofencing_radius_title">Raza Geofencing (m)</string>
+    <string name="preferences_geofencing_radius_summary">Setează raza de excludere pentru setarea de mai sus. Aplicația repornire este necesar.</string>
+    <string name="preferences_show_cells_with_frequency_only_title">Afișați celulele cu date numai frecvență.</string>
+    <string name="preferences_show_cells_with_frequency_only_summary">Celulele care au o valabilitate ARFCN / ARFCN / UARFCN arătat.</string>
+
+    <string name="stop_recording">Opreste inregistrarea</string>
+    <string name="start_recording">Pornire inregistrare</string>
+
+    <string name="accessibility_description">Citește date de modul de testare app câmp fără rădăcină. Necesită 4.2+ API ID-ul celulei pentru dispozitivele Samsung.</string>
+    <string name="battery_optimization_error">Caracteristica Încărcare instant nu va funcționa până când "optimizare a bateriei" este dezactivat și CellMapper se execută în fundal. Pentru a face acest lucru, mergeți la Setări Android> Acumulator> Optimizare baterie (sub meniu) și pentru a asigura CellMapper este setat la "Nu a fost optimizat" sub "Toate aplicațiile".</string>
+
+
+
+</resources>
